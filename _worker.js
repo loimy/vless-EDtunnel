@@ -926,7 +926,7 @@ const cn_hostnames = [
 	'www.liepin.com',           // Liepin - A Chinese online recruitment website
 	'www.881903.com',           // 881903 - A Hong Kong radio station website
 	'www.aipai.com',            // Aipai - A Chinese online video sharing platform
-	'www.ttpaihang.com',        // Ttpaihang - A Chinese celebrity popularity ranking website
+	//'www.ttpaihang.com',        // Ttpaihang - A Chinese celebrity popularity ranking website
 	'www.quyaoya.com',          // Quyaoya - A Chinese online ticketing platform
 	'www.91.com',               // 91.com - A Chinese software download website
 	'www.dianyou.cn',           // Dianyou - A Chinese game information website
