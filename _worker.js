@@ -876,7 +876,7 @@ const cn_hostnames = [
 	'www.163.com',              // NetEase Mail - One of the major email providers in China
 	'www.zhihu.com',            // Zhihu - A popular question-and-answer website
 	'www.youku.com',            // Youku - A Chinese video sharing platform
-	'www.xinhuanet.com',        // Xinhua News Agency - Official news agency of China
+	//'www.xinhuanet.com',        // Xinhua News Agency - Official news agency of China
 	'www.douban.com',           // Douban - A Chinese social networking service
 	'www.meituan.com',          // Meituan - A Chinese group buying website for local services
 	'www.toutiao.com',          // Toutiao - A news and information content platform
